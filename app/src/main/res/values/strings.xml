@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">combineTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="setting_fragment">Hello setting fragment</string>
+</resources>
